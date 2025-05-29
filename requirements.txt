@@ -1,5 +1,7 @@
+numpy
 pandas
 seaborn
 matplotlib
 notebook
 scikit-learn
+streamlit
